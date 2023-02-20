@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">newApp</string>
+    <string name="task1">Task1</string>
+    <string name="taskb">TaskB</string>
+</resources>
